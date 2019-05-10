@@ -33,7 +33,7 @@ public class Topic01_CheckEnvironments {
   }
   
   @Test
-  public void TC_02_checkTitle() {
+  public void TC_03_checkTitle() {
 	  String homePageTitle = driver.getTitle();
 	  String expectedUrl = "Meet Guru99 - Free Training Tutorials & Video for IT Courses";
 	  Assert.assertEquals(homePageTitle, expectedUrl);
