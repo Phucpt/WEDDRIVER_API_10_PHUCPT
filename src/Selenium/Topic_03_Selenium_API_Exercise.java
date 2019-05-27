@@ -9,7 +9,6 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-
 public class Topic_03_Selenium_API_Exercise {
 	WebDriver driver;
 	By emailTexbox = By.xpath("//input[@id='mail']");

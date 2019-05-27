@@ -17,7 +17,7 @@ import com.thoughtworks.selenium.Selenium;
 
 import sun.launcher.resources.launcher;
 
-public class Topic_04_textbox_textarea_dropdown {
+public class Topic04TextboxTextareaDropdown {
 	WebDriver driver;
 
 	@BeforeClass

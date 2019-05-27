@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="LBR/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Phuc/Downloads/selenium-chrome-driver-2.9.0-sources.jar.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
